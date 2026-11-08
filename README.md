@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Andy;Software+Developer;Live+Video+Engineer" alt="Hi, I'm Andy. Software Developer, Live Video Engineer." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF9A2E&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Andy;Software+Developer;Live+Video+Engineer" alt="Hi, I'm Andy. Software Developer, Live Video Engineer." />
 
 <br/>
 
@@ -11,18 +11,18 @@
 ### ❯ cat stack.txt
 
 <p>
-<img src="https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7AA2F7" alt="Python" />
-<img src="https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=7DCFFF" alt="Go" />
-<img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=E0AF68" alt="JavaScript" />
-<img src="https://img.shields.io/badge/FFmpeg-1a1b26?style=for-the-badge&logo=ffmpeg&logoColor=9ECE6A" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logoColor=FF9E64" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
-<img src="https://img.shields.io/badge/Cloudflare-1a1b26?style=for-the-badge&logo=cloudflare&logoColor=FF9E64" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=C0CAF5" alt="Next.js" />
-<img src="https://img.shields.io/badge/Neovim-1a1b26?style=for-the-badge&logo=neovim&logoColor=9ECE6A" alt="Neovim" />
+<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FF9A2E" alt="Python" />
+<img src="https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=FF9A2E" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=FF9A2E" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FF9A2E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/FFmpeg-0a0a0a?style=for-the-badge&logo=ffmpeg&logoColor=FF9A2E" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logoColor=FF9A2E" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=FF9A2E" alt="Docker" />
+<img src="https://img.shields.io/badge/Cloudflare-0a0a0a?style=for-the-badge&logo=cloudflare&logoColor=FF9A2E" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=FF9A2E" alt="Next.js" />
+<img src="https://img.shields.io/badge/Neovim-0a0a0a?style=for-the-badge&logo=neovim&logoColor=FF9A2E" alt="Neovim" />
 </p>
 
 ### ❯ ping andy
 
-<a href="https://andres-lozano.dev/"><img src="https://img.shields.io/badge/andres--lozano.dev-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=BB9AF7" alt="Website: andres-lozano.dev" /></a>
+<a href="https://andres-lozano.dev/"><img src="https://img.shields.io/badge/andres--lozano.dev-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=FF9A2E" alt="Website: andres-lozano.dev" /></a>

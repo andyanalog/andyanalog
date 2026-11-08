@@ -2,22 +2,22 @@
 <title id="t">andy@github, fastfetch</title>
 <desc id="d">Andy: Software Developer and Live Video Engineer from Argentina, into computer vision and machine learning. Stack: Python, Go, TypeScript, FFmpeg, AWS, Docker, Cloudflare. Editor: LazyVim. Theme: Tokyo Night. Site: andres-lozano.dev.</desc>
 <defs>
-<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
-<linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="42" y1="116" x2="246" y2="320"><stop offset="0" stop-color="#7dcfff"/><stop offset=".55" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc77a"/><stop offset=".5" stop-color="#ff9a2e"/><stop offset="1" stop-color="#e0731a"/></linearGradient>
+<linearGradient id="logo" gradientUnits="userSpaceOnUse" x1="42" y1="116" x2="246" y2="320"><stop offset="0" stop-color="#ffc77a"/><stop offset=".55" stop-color="#ff9a2e"/><stop offset="1" stop-color="#e0731a"/></linearGradient>
 </defs>
 <g font-family="'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace">
-<rect width="780" height="470" rx="14" fill="#13141c"/>
-<rect x="8" y="8" width="764" height="26" rx="7" fill="#16161e"/>
-<rect x="15" y="13" width="22" height="16" rx="5" fill="#7aa2f7" opacity=".18"/>
-<text x="26" y="25.5" font-size="12" font-weight="700" fill="#7aa2f7" text-anchor="middle">1</text>
-<text x="52" y="25.5" font-size="12" fill="#565f89" text-anchor="middle">2</text>
-<text x="78" y="25.5" font-size="12" fill="#565f89" text-anchor="middle">3</text>
-<text x="104" y="25.5" font-size="12" fill="#565f89" text-anchor="middle">4</text>
-<text x="130" y="25.5" font-size="12" fill="#565f89" text-anchor="middle">5</text>
-<text x="390.0" y="25.5" font-size="12" fill="#a9b1d6" text-anchor="middle">andy@github</text>
-<text x="758" y="25.5" font-size="12" fill="#565f89" text-anchor="end"><tspan fill="#9ece6a">●</tspan> online  <tspan fill="#7aa2f7">AR</tspan></text>
-<rect x="12" y="44" width="756" height="414" rx="10" fill="#1a1b26" stroke="url(#border)" stroke-width="2"/>
-<text x="38" y="82" font-size="15"><tspan fill="#7dcfff" font-weight="700">❯</tspan><tspan fill="#a9b1d6" dx="10">fastfetch</tspan></text>
+<rect width="780" height="470" rx="14" fill="#0a0a0a"/>
+<rect x="8" y="8" width="764" height="26" rx="7" fill="#141414"/>
+<rect x="15" y="13" width="22" height="16" rx="5" fill="#ff9a2e" opacity=".18"/>
+<text x="26" y="25.5" font-size="12" font-weight="700" fill="#ff9a2e" text-anchor="middle">1</text>
+<text x="52" y="25.5" font-size="12" fill="#6b6b6b" text-anchor="middle">2</text>
+<text x="78" y="25.5" font-size="12" fill="#6b6b6b" text-anchor="middle">3</text>
+<text x="104" y="25.5" font-size="12" fill="#6b6b6b" text-anchor="middle">4</text>
+<text x="130" y="25.5" font-size="12" fill="#6b6b6b" text-anchor="middle">5</text>
+<text x="390.0" y="25.5" font-size="12" fill="#ededed" text-anchor="middle">andy@github</text>
+<text x="758" y="25.5" font-size="12" fill="#6b6b6b" text-anchor="end"><tspan fill="#ff9a2e">●</tspan> online  <tspan fill="#ff9a2e">AR</tspan></text>
+<rect x="12" y="44" width="756" height="414" rx="10" fill="#0f1011" stroke="url(#border)" stroke-width="2"/>
+<text x="38" y="82" font-size="15"><tspan fill="#ffc77a" font-weight="700">❯</tspan><tspan fill="#ededed" dx="10">fastfetch</tspan></text>
 <g fill="url(#logo)">
 <rect x="110" y="116" width="15" height="15" rx="2"/>
 <rect x="127" y="116" width="15" height="15" rx="2"/>
@@ -90,42 +90,42 @@
 <rect x="212" y="303" width="15" height="15" rx="2"/>
 <rect x="229" y="303" width="15" height="15" rx="2"/>
 </g>
-<text x="274" y="124" font-size="16" font-weight="700"><tspan fill="#bb9af7">andy</tspan><tspan fill="#a9b1d6">@</tspan><tspan fill="#7dcfff">github</tspan></text>
-<line x1="274" y1="136" x2="402" y2="136" stroke="#414868" stroke-width="2"/>
-<text x="274" y="164" font-size="14.5" font-weight="700" fill="#7aa2f7">Role</text>
-<text x="378" y="164" font-size="14.5" fill="#a9b1d6">Software Developer</text>
-<text x="274" y="189" font-size="14.5" font-weight="700" fill="#7aa2f7">Video</text>
-<text x="378" y="189" font-size="14.5" fill="#a9b1d6">Live Video Engineer</text>
-<text x="274" y="214" font-size="14.5" font-weight="700" fill="#7aa2f7">Focus</text>
-<text x="378" y="214" font-size="14.5" fill="#a9b1d6">Computer Vision · Machine Learning</text>
-<text x="274" y="239" font-size="14.5" font-weight="700" fill="#7aa2f7">Stack</text>
-<text x="378" y="239" font-size="14.5" fill="#a9b1d6">Python · Go · TypeScript · FFmpeg</text>
-<text x="274" y="264" font-size="14.5" font-weight="700" fill="#7aa2f7">Cloud</text>
-<text x="378" y="264" font-size="14.5" fill="#a9b1d6">AWS · Docker · Cloudflare</text>
-<text x="274" y="289" font-size="14.5" font-weight="700" fill="#7aa2f7">Editor</text>
-<text x="378" y="289" font-size="14.5" fill="#a9b1d6">LazyVim</text>
-<text x="274" y="314" font-size="14.5" font-weight="700" fill="#7aa2f7">Theme</text>
-<text x="378" y="314" font-size="14.5" fill="#a9b1d6">Tokyo Night</text>
-<text x="274" y="339" font-size="14.5" font-weight="700" fill="#7aa2f7">Location</text>
-<text x="378" y="339" font-size="14.5" fill="#a9b1d6">Argentina</text>
-<text x="274" y="364" font-size="14.5" font-weight="700" fill="#7aa2f7">Site</text>
-<text x="378" y="364" font-size="14.5" fill="#a9b1d6">andres-lozano.dev</text>
-<rect x="274" y="391" width="28" height="15" fill="#15161e"/>
-<rect x="304" y="391" width="28" height="15" fill="#f7768e"/>
-<rect x="334" y="391" width="28" height="15" fill="#9ece6a"/>
-<rect x="364" y="391" width="28" height="15" fill="#e0af68"/>
-<rect x="394" y="391" width="28" height="15" fill="#7aa2f7"/>
-<rect x="424" y="391" width="28" height="15" fill="#bb9af7"/>
-<rect x="454" y="391" width="28" height="15" fill="#7dcfff"/>
-<rect x="484" y="391" width="28" height="15" fill="#a9b1d6"/>
-<rect x="274" y="408" width="28" height="15" fill="#414868"/>
-<rect x="304" y="408" width="28" height="15" fill="#f7768e"/>
-<rect x="334" y="408" width="28" height="15" fill="#9ece6a"/>
-<rect x="364" y="408" width="28" height="15" fill="#e0af68"/>
-<rect x="394" y="408" width="28" height="15" fill="#7aa2f7"/>
-<rect x="424" y="408" width="28" height="15" fill="#bb9af7"/>
-<rect x="454" y="408" width="28" height="15" fill="#7dcfff"/>
-<rect x="484" y="408" width="28" height="15" fill="#c0caf5"/>
-<text x="38" y="434" font-size="15" font-weight="700" fill="#7dcfff">❯</text>
-<rect x="56" y="420" width="9" height="18" fill="#c0caf5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="274" y="124" font-size="16" font-weight="700"><tspan fill="#e0731a">andy</tspan><tspan fill="#ededed">@</tspan><tspan fill="#ffc77a">github</tspan></text>
+<line x1="274" y1="136" x2="402" y2="136" stroke="#2e2e2e" stroke-width="2"/>
+<text x="274" y="164" font-size="14.5" font-weight="700" fill="#ff9a2e">Role</text>
+<text x="378" y="164" font-size="14.5" fill="#ededed">Software Developer</text>
+<text x="274" y="189" font-size="14.5" font-weight="700" fill="#ff9a2e">Video</text>
+<text x="378" y="189" font-size="14.5" fill="#ededed">Live Video Engineer</text>
+<text x="274" y="214" font-size="14.5" font-weight="700" fill="#ff9a2e">Focus</text>
+<text x="378" y="214" font-size="14.5" fill="#ededed">Computer Vision · Machine Learning</text>
+<text x="274" y="239" font-size="14.5" font-weight="700" fill="#ff9a2e">Stack</text>
+<text x="378" y="239" font-size="14.5" fill="#ededed">Python · Go · TypeScript · FFmpeg</text>
+<text x="274" y="264" font-size="14.5" font-weight="700" fill="#ff9a2e">Cloud</text>
+<text x="378" y="264" font-size="14.5" fill="#ededed">AWS · Docker · Cloudflare</text>
+<text x="274" y="289" font-size="14.5" font-weight="700" fill="#ff9a2e">Editor</text>
+<text x="378" y="289" font-size="14.5" fill="#ededed">LazyVim</text>
+<text x="274" y="314" font-size="14.5" font-weight="700" fill="#ff9a2e">Theme</text>
+<text x="378" y="314" font-size="14.5" fill="#ededed">Tokyo Night</text>
+<text x="274" y="339" font-size="14.5" font-weight="700" fill="#ff9a2e">Location</text>
+<text x="378" y="339" font-size="14.5" fill="#ededed">Argentina</text>
+<text x="274" y="364" font-size="14.5" font-weight="700" fill="#ff9a2e">Site</text>
+<text x="378" y="364" font-size="14.5" fill="#ededed">andres-lozano.dev</text>
+<rect x="274" y="391" width="28" height="15" fill="#1a1a1a"/>
+<rect x="304" y="391" width="28" height="15" fill="#2e2e2e"/>
+<rect x="334" y="391" width="28" height="15" fill="#454545"/>
+<rect x="364" y="391" width="28" height="15" fill="#6b6b6b"/>
+<rect x="394" y="391" width="28" height="15" fill="#8a8a8a"/>
+<rect x="424" y="391" width="28" height="15" fill="#a1a1a1"/>
+<rect x="454" y="391" width="28" height="15" fill="#c8c8c8"/>
+<rect x="484" y="391" width="28" height="15" fill="#ededed"/>
+<rect x="274" y="408" width="28" height="15" fill="#3d2208"/>
+<rect x="304" y="408" width="28" height="15" fill="#5c330c"/>
+<rect x="334" y="408" width="28" height="15" fill="#8a4c12"/>
+<rect x="364" y="408" width="28" height="15" fill="#b86518"/>
+<rect x="394" y="408" width="28" height="15" fill="#e07d20"/>
+<rect x="424" y="408" width="28" height="15" fill="#ff9a2e"/>
+<rect x="454" y="408" width="28" height="15" fill="#ffb35c"/>
+<rect x="484" y="408" width="28" height="15" fill="#ffc77a"/>
+<text x="38" y="434" font-size="15" font-weight="700" fill="#ffc77a">❯</text>
+<rect x="56" y="420" width="9" height="18" fill="#ffc77a"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g></svg>
